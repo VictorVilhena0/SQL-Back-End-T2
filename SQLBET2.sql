@@ -12,10 +12,10 @@ CREATE TABLE Usuarios
 )
 
 GO
-INSERT INTO Usuarios VALUES ('redspy@gmail.com', '123456')
+INSERT INTO Usuarios VALUES ('redspy@email.com', '123456')
 
 GO
-INSERT INTO Usuarios VALUES ('emaildigital@outlook.com.br', 'quindim3920552')
+INSERT INTO Usuarios VALUES ('emaildigital@email.com.br', 'quindim3920552')
 
 GO
 INSERT INTO Usuarios VALUES ('emailultrasecreto@secreto.com.br', 'senhaultrasecreta297523750259')
